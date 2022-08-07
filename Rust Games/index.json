@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "type": "launcher",
+            "title": "sokoban",
+            "file": "https://raw.githubusercontent.com/gitcrtn/warehouse/master/Rust%20Games/sokoban/file/sokoban.tar.gz",
+            "shots": "https://raw.githubusercontent.com/gitcrtn/warehouse/master/Rust%20Games/sokoban/shots/sokoban.png"
+        }
+    ]
+}

@@ -1,6 +1,9 @@
 {
 	"list":[
-        {"title":"Examples","file":"https://raw.githubusercontent.com/gitcrtn/warehouse/master/Examples/index.json","type":"dir"},
-        {"title":"ExamplesDev","file":"https://raw.githubusercontent.com/gitcrtn/warehouse/dev/ExamplesDev/index.json","type":"dir"}
+        {
+            "title": "Rust Games",
+            "file": "https://raw.githubusercontent.com/gitcrtn/warehouse/master/Rust%20Games/index.json",
+            "type":"dir"
+        }
     ]
 }
